@@ -7,6 +7,10 @@ pandas==2.0.3
 numpy==1.24.3
 reportlab==3.6.12
 protobuf==3.20.0
+thinc==8.1.10
+cymem==2.0.7
+preshed==3.0.8
+# Modèles spaCy
 https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.5.0/fr_core_news_sm-3.5.0-py3-none-any.whl
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.5.0/de_core_news_sm-3.5.0-py3-none-any.whl
